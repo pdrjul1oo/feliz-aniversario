@@ -272,6 +272,7 @@ ul{
     text-align: center;
     justify-content: center;
     list-style: none;
+    padding: 0;
 }
 .divisao:hover {
   transform: scale(1.01);
